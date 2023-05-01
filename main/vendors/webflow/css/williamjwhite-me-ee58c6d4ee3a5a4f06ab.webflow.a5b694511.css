@@ -198,27 +198,27 @@ td, th {
 }
 
 .w-icon-slider-right:before {
-  content: "î˜€";
+  content: "";
 }
 
 .w-icon-slider-left:before {
-  content: "î˜";
+  content: "";
 }
 
 .w-icon-nav-menu:before {
-  content: "î˜‚";
+  content: "";
 }
 
 .w-icon-arrow-down:before, .w-icon-dropdown-toggle:before {
-  content: "î˜ƒ";
+  content: "";
 }
 
 .w-icon-file-upload-remove:before {
-  content: "î¤€";
+  content: "";
 }
 
 .w-icon-file-upload-icon:before {
-  content: "î¤ƒ";
+  content: "";
 }
 
 * {
@@ -2239,7 +2239,7 @@ p {
   height: auto;
   min-height: 72px;
   cursor: pointer;
-  background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115dc526e9b32d_Logo_William_Gold_Gradient_2018.svg");
+  background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115dc526e9b32d_Logo_Nannina_Gold_Gradient_2018.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2257,7 +2257,7 @@ p {
 .knife-fork-overlay {
   width: 306px;
   height: 510px;
-  background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115dba96e9b31f_KnifeFork.png");
+  background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115dba96e9b31f_KnifeFork.png");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2403,7 +2403,7 @@ p {
 .social-media-link-nav {
   width: 16px;
   height: 16px;
-  background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d0f54e9b388_FB%20ICon%20Nannina.svg");
+  background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d0f54e9b388_FB%20ICon%20Nannina.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2412,7 +2412,7 @@ p {
 .social-media-link-nav.ig {
   width: 20px;
   height: 20px;
-  background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d805de9b38f_Icon%20IG%20nannina%20beige.svg");
+  background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d805de9b38f_Icon%20IG%20nannina%20beige.svg");
   margin-right: 0;
   transition: all .3s ease-out;
   position: relative;
@@ -3639,7 +3639,7 @@ p {
   font-weight: 300;
 }
 
-.william-button-orange {
+.nannina-button-orange {
   width: 106px;
   position: absolute;
   bottom: 36px;
@@ -5714,7 +5714,7 @@ p {
   height: 500px;
   opacity: 1;
   background-color: #c27766;
-  background-image: linear-gradient(rgba(194, 119, 102, .91), rgba(194, 119, 102, .91)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d5c87e9b373_Bread_brackground_Nav_1.jpg");
+  background-image: linear-gradient(rgba(194, 119, 102, .91), rgba(194, 119, 102, .91)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d5c87e9b373_Bread_brackground_Nav_1.jpg");
   background-position: 0 0, 0;
   background-repeat: repeat, repeat-x;
   background-size: auto, cover;
@@ -5941,7 +5941,7 @@ p {
   color: #272625;
   letter-spacing: 0;
   text-transform: none;
-  background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d83c4e9b30d_mini%20arrow%20bullet.svg");
+  background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d83c4e9b30d_mini%20arrow%20bullet.svg");
   background-position: 28px 4px;
   background-repeat: no-repeat;
   background-size: auto 8px;
@@ -5992,7 +5992,7 @@ p {
 .wrap-hingrig-geworden {
   width: 440px;
   height: 280px;
-  background-image: linear-gradient(rgba(63, 61, 61, .75), rgba(63, 61, 61, .75)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d5c87e9b373_Bread_brackground_Nav_1.jpg");
+  background-image: linear-gradient(rgba(63, 61, 61, .75), rgba(63, 61, 61, .75)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d5c87e9b373_Bread_brackground_Nav_1.jpg");
   background-position: 0 0, 0 0;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6240,7 +6240,7 @@ p {
   right: auto;
 }
 
-.logo-william-karte {
+.logo-nannina-karte {
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -6537,7 +6537,7 @@ p {
   min-width: none;
   opacity: 1;
   background-color: #3f3d3d;
-  background-image: linear-gradient(rgba(63, 61, 61, .98), rgba(63, 61, 61, .98)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
+  background-image: linear-gradient(rgba(63, 61, 61, .98), rgba(63, 61, 61, .98)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
   background-position: 0 0, 0 0;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -7031,7 +7031,7 @@ p {
 .unter-schrift-giovanna {
   width: 591px;
   height: 37px;
-  background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d923ce9b38b_Unterschrift%20Giovann%20%26%20Fabio.svg");
+  background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d923ce9b38b_Unterschrift%20Giovann%20%26%20Fabio.svg");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: 250px;
@@ -8489,7 +8489,7 @@ p {
     height: 112px;
     opacity: 1;
     background-color: rgba(0, 0, 0, 0);
-    background-image: linear-gradient(rgba(39, 38, 37, .93), rgba(39, 38, 37, .93)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
+    background-image: linear-gradient(rgba(39, 38, 37, .93), rgba(39, 38, 37, .93)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
     background-position: 0 0, 0 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -8544,7 +8544,7 @@ p {
     width: 90vw;
     height: 90vh;
     background-color: rgba(0, 0, 0, 0);
-    background-image: linear-gradient(rgba(39, 38, 37, .6), rgba(39, 38, 37, .6)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d2c4ce9b33d_BG-Knife.svg"), linear-gradient(rgba(39, 38, 37, .8), rgba(39, 38, 37, .8)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
+    background-image: linear-gradient(rgba(39, 38, 37, .6), rgba(39, 38, 37, .6)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d2c4ce9b33d_BG-Knife.svg"), linear-gradient(rgba(39, 38, 37, .8), rgba(39, 38, 37, .8)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
     background-position: 0 0, 50% 0, 0 0, 0 0;
     background-repeat: repeat, no-repeat, repeat, no-repeat;
     background-size: auto, 100%, auto, cover;
@@ -8649,7 +8649,7 @@ p {
 
   .social-media-link-nav.ig {
     opacity: .86;
-    background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115da6b2e9b391_Icon%20IG%20nnnain%20grey.svg");
+    background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115da6b2e9b391_Icon%20IG%20nnnain%20grey.svg");
     margin-top: 0;
     margin-right: 16px;
     top: 0;
@@ -8966,7 +8966,7 @@ p {
     height: 1px;
   }
 
-  .william-button-orange {
+  .nannina-button-orange {
     width: 74px;
     bottom: 58px;
     left: 48px;
@@ -9753,7 +9753,7 @@ p {
     transform: none;
   }
 
-  .logo-william-karte {
+  .logo-nannina-karte {
     width: 200px;
     display: none;
   }
@@ -10387,7 +10387,7 @@ p {
   .logo-link-inner-mob {
     width: 200px;
     height: 60px;
-    background-image: url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115dc526e9b32d_Logo_William_Gold_Gradient_2018.svg");
+    background-image: url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115dc526e9b32d_Logo_Nannina_Gold_Gradient_2018.svg");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -10458,7 +10458,7 @@ p {
     width: 90vw;
     height: 90vh;
     background-color: rgba(0, 0, 0, 0);
-    background-image: linear-gradient(rgba(39, 38, 37, .6), rgba(39, 38, 37, .6)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d2c4ce9b33d_BG-Knife.svg"), linear-gradient(rgba(39, 38, 37, .8), rgba(39, 38, 37, .8)), url("http://williamjwhite.test:8888/dev1/portfolio/uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d67f5e9b2e863dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
+    background-image: linear-gradient(rgba(39, 38, 37, .6), rgba(39, 38, 37, .6)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d2c4ce9b33d_BG-Knife.svg"), linear-gradient(rgba(39, 38, 37, .8), rgba(39, 38, 37, .8)), url("https://uploads-ssl.webflow.com/63dced0024115d67f5e9b2e8/63dced0024115d37d6e9b325_IMG_8901-2.JPG%20(1).jpg");
     background-position: 0 0, 50% 0, 0 0, 0 0;
     background-repeat: repeat, no-repeat, repeat, no-repeat;
     background-size: auto, 100%, auto, cover;
@@ -11191,7 +11191,7 @@ p {
     padding-bottom: 24px;
   }
 
-  .william-button-orange {
+  .nannina-button-orange {
     bottom: 12px;
     left: 16px;
   }
@@ -12943,7 +12943,7 @@ p {
     left: 0;
   }
 
-  .william-button-orange {
+  .nannina-button-orange {
     width: 48px;
     bottom: 32px;
     left: 32px;
