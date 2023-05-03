@@ -3,3 +3,5 @@
 *.sass.map
 *.scss.map
 main/vendors/webflow/63dced0024115d67f5e9b2e8/.DS_Store
+.DS_Store
+main/vendors/wf_1/.DS_Store
